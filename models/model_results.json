@@ -1,0 +1,20 @@
+{
+  "results": {
+    "Linear Regression": {
+      "MAE": 4179.61,
+      "MAPE": 12.33,
+      "R2": 0.93
+    },
+    "Random Forest": {
+      "MAE": 1005.63,
+      "MAPE": 3.04,
+      "R2": 0.9946
+    },
+    "XGBoost (tuned)": {
+      "MAE": 1028.67,
+      "MAPE": 2.88,
+      "R2": 0.9941
+    }
+  },
+  "best_model": "Random Forest"
+}

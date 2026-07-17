@@ -1,0 +1,11 @@
+brand_name,model,price,predicted_fair_price,value_score_pct
+itel,Itel A23 Pro,3999,7541.0,88.57
+tecno,Tecno Pop 5 Go,6999,10141.0,44.89
+itel,itel P36,6490,8952.0,37.94
+nokia,Nokia C01 Plus,5249,7177.0,36.73
+vivo,Vivo Y25,7499,9839.0,31.2
+realme,Realme C2s,3499,4541.0,29.78
+samsung,Samsung Galaxy A01 Core,4999,6377.0,27.57
+apple,Apple iPhone SE 2020,39900,50829.0,27.39
+apple,Apple iPhone 9,29990,37428.0,24.8
+jio,Jio Phone 3,4499,5613.0,24.76
