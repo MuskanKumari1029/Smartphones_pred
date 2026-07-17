@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smartphone Value Intelligence Engine
 
 A spec-based **price fairness model + market segmentation + recommendation engine**,
@@ -116,3 +117,6 @@ The app has four tools: Value Lookup, Budget Recommender, Similar Phones, and Ma
   metric flaw that initially misranked low-spec phones for performance-priority queries.
 - Deployed the full pipeline as an interactive Streamlit app with four tools: price-fairness
   lookup, budget-based recommendations, similar-phone search, and segment exploration.
+=======
+# Smartphones_pred
+>>>>>>> 119d7fcf69b85ee5aebb1438e50c63535c859b89
